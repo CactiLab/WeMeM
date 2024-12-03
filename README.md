@@ -163,7 +163,7 @@ For example, the evaluation results of cifar10-resnet18 pruned model with `slide
 @inproceedings{shang2025iteratively,
   title = {Defending Against Membership Inference Attacks on Iteratively Pruned Deep Neural Networks},
   booktitle = {Network and Distributed System Security (NDSS) Symposium},
-  author={Shang, Jing and Wang, Jian and Wang, Kailun and Liu, Jiqiang and Jiang, Nan and Armanuzzaman, MD and Zhao, Ziming},
+  author={Shang, Jing and Wang, Jian and Wang, Kailun and Liu, Jiqiang and Jiang, Nan and Armanuzzaman, Md and Zhao, Ziming},
   year={2025}
 }
 ```
